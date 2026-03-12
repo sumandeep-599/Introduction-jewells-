@@ -1,1 +1,118 @@
-# Introduction-jewells-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Us - Sumanmol Jewellers | Premium Gold Patra Jewellery</title>
+  <meta name="description" content="Sumanmol Jewellers - Leading manufacturer of high-quality gold Patra (thin sheet) jewellery in Ludhiana, Punjab. Hallmarked, traditional designs with modern elegance.">
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body {
+      font-family: 'Arial', 'Helvetica', sans-serif;
+      background-color: #f9f5f0;
+      color: #333;
+      line-height: 1.6;
+      text-align: center;
+    }
+    header {
+      padding: 20px 15px;
+      background: #fff;
+      border-bottom: 1px solid #eee;
+    }
+    .logo img {
+      max-width: 220px;
+      height: auto;
+    }
+    .nav { margin: 15px 0; }
+    .hamburger { font-size: 28px; cursor: pointer; float: left; display: none; } /* Hide until you add JS */
+    .breadcrumb {
+      font-size: 14px;
+      color: #777;
+      margin: 10px 0;
+    }
+    main { padding: 40px 20px; }
+    h1 {
+      font-size: 2.4rem;
+      color: #b8860b;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    .diamond-icon { font-size: 4rem; color: #000; margin: 25px 0 15px; }
+    .content {
+      max-width: 800px;
+      margin: 0 auto;
+      font-size: 1.1rem;
+      text-align: left;
+    }
+    .content p { margin-bottom: 1.4em; }
+    .highlight { color: #b8860b; font-weight: bold; }
+    footer {
+      background: #fff;
+      padding: 20px;
+      margin-top: 40px;
+      border-top: 1px solid #eee;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    @media (max-width: 768px) {
+      .hamburger { display: block; }
+      /* Add mobile menu styles if you implement JS */
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="hamburger">≡</div>
+    
+    <!-- Replace with your actual logo URL (upload to your server, ImgBB, or jewellery-specific host) -->
+    <div class="logo">
+      <img src="https://via.placeholder.com/220x80/000000/FFD700?text=Sumanmol+Jewellers" alt="Sumanmol Jewellers Logo - Elegant Gold Monogram">
+      <!-- Ideally: Use your real logo file here -->
+    </div>
+  </header>
+
+  <main>
+    <div class="breadcrumb">
+      <a href="/">Home</a> / About Us
+    </div>
+
+    <h1>About Us</h1>
+
+    <div class="diamond-icon">💎✨</div>
+
+    <div class="content">
+      <h2 style="font-size: 1.8rem; color: #b8860b; margin: 20px 0; text-align:center;">Crafting Timeless Elegance</h2>
+      
+      <p>
+        <span class="highlight">Sumanmol Jewellers</span> is a proud <strong>manufacturer</strong> of premium <strong>gold Patra jewellery</strong> in India, based in <strong>Ludhiana, Punjab</strong> — the heart of India's jewellery craftsmanship.
+      </p>
+      
+      <p>
+        Founded with a deep passion for elegant, traditional designs, we have grown into a trusted name delivering <strong>high-quality, lightweight gold jewellery</strong>. We specialize in <strong>Patra (thin-sheet) gold ornaments</strong> — delicate yet durable pieces that blend centuries-old Indian artistry with modern finesse.
+      </p>
+      
+      <p>
+        Every piece is meticulously crafted using <strong>pure hallmarked gold</strong>, ensuring purity, BIS hallmark certification, and lasting value. From intricate neck sets, bangles, earrings, to custom bridal and daily-wear collections — our jewellery celebrates tradition while embracing contemporary tastes.
+      </p>
+      
+      <p>
+        At Sumanmol Jewellers, we believe jewellery is more than adornment — it's emotion, heritage, and legacy. We are committed to ethical sourcing, transparent pricing, and customer satisfaction.
+      </p>
+      
+      <p style="text-align:center; margin-top: 30px;">
+        <strong>Visit us in Ludhiana or connect today to explore our latest collections!</strong><br>
+        📍 Ludhiana, Punjab, India<br>
+        📞 Contact: [Add your phone/WhatsApp number]<br>
+        📸 Follow us on Instagram: @[your handle]
+      </p>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Sumanmol Jewellers. All rights reserved. | Hallmarked Gold | Made with ❤️ in Ludhiana</p>
+  </footer>
+
+</body>
+</html># Introduction-jewells-
